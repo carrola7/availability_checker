@@ -1,0 +1,5 @@
+require 'minitest/autorun'
+require_relative '../lib/availability_checker'
+require_relative '../lib/availability_checker/schedule'
+require_relative '../lib/availability_checker/schedule/row'
+require_relative '../lib/availability_checker/cli'
